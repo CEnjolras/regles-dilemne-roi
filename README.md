@@ -1,12 +1,22 @@
 # regles-dilemne-roi
 
 ## Mise en place
+### De base :
   - Chaque joueur 10 or 8 pouvoir
   - 3 pouvoir sur plateau
   - Influence, Prosperite, Moral, Bien etre, Connaissance, Stabilité au centre, couleur aleatoir + stab au centre
   - Joueur avec le prestige le plue eleve recup **Meneur**
   - Joueur avec le prestige le plus bas recup **Mateau**
-git a
+  - Drafter cartes objectif secret du moin de prestige au plus de prestige
+
+### Succéssion
+  - Cocher case du chronique. Deplacer jetons en fonction des chroniques
+  - Chaque signature sur chronique => +1 pouvoir si positif -1 si negatif
+  - Joueur ayant signé le plus récent chronique positif => recup obj publique positif
+  - Vice versa obj publique negatif
+  - Egalité = le plus a droite
+  - Max 2 positif et 2 negatif. Si plus. Joueur choisie un defausse
+  - 
 ## Phases de jeux
 
 ### 1 Piocher et lire un dilemne
