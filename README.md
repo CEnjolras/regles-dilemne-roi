@@ -9,14 +9,23 @@
   - Joueur avec le prestige le plus bas recup **Mateau**
   - Drafter cartes objectif secret du moin de prestige au plus de prestige
 
-### Succéssion
-  - Cocher case du chronique. Deplacer jetons en fonction des chroniques
-  - Chaque signature sur chronique => +1 pouvoir si positif -1 si negatif
-  - Joueur ayant signé le plus récent chronique positif => recup obj publique positif
-  - Vice versa obj publique negatif
-  - Egalité = le plus a droite
-  - Max 2 positif et 2 negatif. Si plus. Joueur choisie un defausse
-  - 
+### Succéssion (Parties suivante)
+  - **Histoire**
+    - Recup paquet dilemme de l'emplacement de sauvegarde et melanger
+    - Recup carte histoires et evenement de l'emplacement de sauvegarde.
+    - Appliquer effets des cartes evenements
+    - Lire et placer les cartes histoires sur plateau
+  - **Chroniques**
+    - Cocher case du chronique. Deplacer jetons en fonction des chroniques
+    - Déplacer ressources en fonction chroniques. Nb de chronique positif par theme = deplacement
+  - **Pouvoir** : Chaque signature sur chronique => +1 pouvoir si positif -1 si negatif
+  - **Repartition objectifs publiques :**
+    - Joueur ayant signé le plus récent chronique positif => recup obj publique positif
+    - Vice versa obj publique negatif
+    - Egalité = le plus a droite
+    - Max 2 positif et 2 negatif. Si plus. Joueur choisie un defausse
+  - Appliquer haut faits de maisons (Symbole etoile)
+
 ## Phases de jeux
 
 ### 1 Piocher et lire un dilemne
@@ -35,7 +44,7 @@
       + La personne avec le plus de pouvoir engagé prend le jeton **Meneur**
       + En cas d'égalité, le meneur garde le jeton
   - Fin du vote lors de la fin du tour du joueur a droite du **Meneur**
-  - - Négociation OK avec pièces d'or. Possible de négocier vote, passe et meme signature.
+  - Négociation OK avec pièces d'or. Possible de négocier vote, passe et meme signature.
 
 ### 3 Résolution du vote 
   - Egaliter = **Marteau** qui décide
@@ -97,3 +106,9 @@
 ### 4 Verifier alignement
   - Cocher case correspondant a sa mission secrete. Si tout cocher => reporter dans total prestige et convoitise
 
+
+## Rangement pour sauvegarder
+  - Recuperer les cartes immediat (symbole eclaire) melanger avec dilemmes et placer dans sauvegarde dilemme
+  - Recupe les dilemmes joué et les placer au rebut
+  - Objectif secrets et vote dans emplacement "mise en place"
+  - Histoires et evenement (symbole bougie) dans emplacement "sauvegarde de l'histoire"
