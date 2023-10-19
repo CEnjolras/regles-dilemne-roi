@@ -1,7 +1,12 @@
 # regles-dilemne-roi
 
 ## Mise en place
-
+  - Chaque joueur 10 or 8 pouvoir
+  - 3 pouvoir sur plateau
+  - Influence, Prosperite, Moral, Bien etre, Connaissance, Stabilité au centre, couleur aleatoir + stab au centre
+  - Joueur avec le prestige le plue eleve recup **Meneur**
+  - Joueur avec le prestige le plus bas recup **Mateau**
+git a
 ## Phases de jeux
 
 ### 1 Piocher et lire un dilemne
@@ -55,9 +60,30 @@
   - Placer dilemne sur frise du temps :
     + Placer dilemne sur frise du temps au prochain emplacement dispo
     + Attention ne pas placer cartes Evenement (symbole bougie) ou Immediat (symbole eclaire)
+    + Fin d'un arc narratif = faudra check les regles pour savoir quoi faire
   - Fin de manche :
     + Verifier si le roi abdique (Stab tout a droite ou tout a gauche)
     + Verifier si roi mort : Si dilemen placer dans zone de mort + porte symbole OU 5eme carte = roi dead 
     + Sinon, Commencer une nouvelle manche en piochant un dilemme.
 
 ## Fin de partie
+### 1 Calcule des scores
+  - Calcule objectif secret. Egalité OR = partage place du podium (meme somme d'argent)
+  - Objectif public :
+    + Pour chauqe positif : Si ressource correspondant le plus haut = +3pts. 2eme = 1pts
+    + Pour chaque negatif : Si ressource correspondant le plus bas = -3pts. 2eme = -1pts
+    + Egaliter = meme malus ou bonnus
+  - Majorité de jetons Pouvoir
+    + 1er = +2pts
+    + 2eme = +1pts
+    
+### 2 Marquer scores dans chroniques du royaume
+  - Notter les scores dans chroniques du royaume. Le gagnat L'héritier aura l'honneur d'epouser l'heritier du roi.
+  - Cocher pts prestige et convoitise : check regles page 33
+
+### 3 Verifier haut fait de maisons
+  - Cocher case haut fait si c'est OK. Si tout coché => l'effet benefique s'applique prochaine partie
+
+### 4 Verifier alignement
+  - Cocher case correspondant a sa mission secrete. Si tout cocher => reporter dans total prestige et convoitise
+
